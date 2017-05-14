@@ -1,6 +1,6 @@
 {
   "name": "root_view",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Basic Root App for Backbone frontend",
   "main": "index.js",
   "repository": "https://github.com/shintech/root_view",
